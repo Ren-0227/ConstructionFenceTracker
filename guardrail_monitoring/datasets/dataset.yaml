@@ -1,0 +1,4 @@
+train: C:/Users/ren/Desktop/gm1/guardrail_monitoring/datasets/guardrail/images/train
+val: C:/Users/ren/Desktop/gm1/guardrail_monitoring/datasets/guardrail/images/val
+nc: 2  # 类别数量
+names: ['fence', 'whole']  # 类别名称
