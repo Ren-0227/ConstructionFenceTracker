@@ -30,7 +30,7 @@ GM1/
 
 下载项目及准备工作
 1. 克隆项目
-git clone <repo_url>
+git clone https://github.com/Ren-0227/ConstructionFenceTracker.git
 cd GM1
 
 
